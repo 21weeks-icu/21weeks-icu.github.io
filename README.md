@@ -31,7 +31,9 @@
 欢迎在社交网络中转发 [21Weeks.ICU](https://21weeks.icu)，让更多的人知道。
 
 如果你想发言：
-[SYSU匿名留言板](sysu.world) sysu.world
+
+[SYSU匿名留言板](http://sysu.world/) sysu.world
+
 或者：
 1. 登录自己的 GitHub 账号（建议开小号）
 2. 按右上角按钮 `fork` 本仓库到自己账号中
