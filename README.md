@@ -61,6 +61,7 @@
 
 ### [我们需要什么？](/Iwant.md)
 ### [中山大学原校长黄达人：大学的本质在于平等对待每位学生](/equality.md)
+### [关于匿名留言空间](/aboutSYSUWorld.md)
 
 ## 21weeks.ICU 大事记
 
