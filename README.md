@@ -32,6 +32,9 @@
 
 如果你想发言：
 
+[SYSU匿名留言板](http://sysu.world/) sysu.world
+
+或者：
 1. 登录自己的 GitHub 账号（建议开小号）
 2. 按右上角按钮 `fork` 本仓库到自己账号中
 3. `git clone` 自己的仓库到本地
